@@ -1,5 +1,4 @@
 # vectorization-tool
-
 This tool was developed to vectorize 2D maps.
 
 This app functions are :
